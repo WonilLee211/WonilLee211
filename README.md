@@ -1,4 +1,4 @@
-# 안녕하세요 개발자 이원일입니다.
+# 꾸준하게 성장하자 !
 
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/WonilLee211/TIL?color=red)
 ![GitHub last commit](https://img.shields.io/github/last-commit/WonilLee211/TIL)
